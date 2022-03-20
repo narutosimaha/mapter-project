@@ -1,1 +1,1 @@
-# mapter-project
+# mapty
